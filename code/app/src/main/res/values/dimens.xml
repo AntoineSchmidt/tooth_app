@@ -1,0 +1,16 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="default_margin">8dp</dimen>
+    <dimen name="default_dialog_margin">22dp</dimen>
+    <dimen name="default_view_margin">16dp</dimen>
+
+    <dimen name="icon_listitem">40dp</dimen>
+    <dimen name="padding_small">10dp</dimen>
+    <dimen name="padding_listitem_vertical">20dp</dimen>
+    <dimen name="textsize_listitem_primary">16sp</dimen>
+    <dimen name="textsize_listitem_secondary">14dp</dimen>
+    <dimen name="splashscreen_iconsize">80dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>

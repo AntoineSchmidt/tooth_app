@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:screenOrientation="portrait"
+    tools:context="hs_kempten.ibrush.activities.VideoActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    </android.support.design.widget.AppBarLayout>
+
+    <EditText
+        android:layout_width="273dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|center"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/editText"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:hint="@string/brushlength_hint" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/processButton"
+        android:layout_width="?android:attr/actionBarSize"
+        android:layout_height="?android:attr/actionBarSize"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="@dimen/default_view_margin"
+        android:padding="@dimen/default_view_margin"
+        android:scaleType="fitXY"
+        android:src="@drawable/plus"
+        android:onClick="onProcessClick"
+        app:elevation="0dp" />
+
+    <EditText
+        android:layout_width="75dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|center"
+        android:inputType="number"
+        android:enabled="false"
+        android:gravity="center"
+        android:ems="10"
+        android:id="@+id/progress" />
+
+    <ProgressBar
+        android:layout_gravity="center|center"
+        android:id="@+id/progressBar"
+        android:layout_height="180dp"
+        android:layout_width="180dp" />
+
+</android.support.design.widget.CoordinatorLayout>

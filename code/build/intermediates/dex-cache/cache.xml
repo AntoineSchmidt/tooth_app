@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\04_Dokumente\Schule\HS_Kempten\Semester_7\Bachelor\iBrush\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="D:\04_Dokumente\Schule\HS_Kempten\Semester_7\Bachelor\iBrush\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_d63ae757b4e283f696788e925433787c0f5b1ff0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\04_Dokumente\Schule\HS_Kempten\Semester_7\Bachelor\iBrush\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="86be42e5cb72fd8dd67a73ff7b12ef31492165d9">
+        <dex dex="D:\04_Dokumente\Schule\HS_Kempten\Semester_7\Bachelor\iBrush\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_a1713d56e4fe6419573bfa9542d9380c089aa5f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\04_Dokumente\Schule\HS_Kempten\Semester_7\Bachelor\iBrush\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="D:\04_Dokumente\Schule\HS_Kempten\Semester_7\Bachelor\iBrush\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_d63ae757b4e283f696788e925433787c0f5b1ff0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\04_Dokumente\Schule\HS_Kempten\Semester_7\Bachelor\iBrush\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="D:\04_Dokumente\Schule\HS_Kempten\Semester_7\Bachelor\iBrush\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_c3f28d99d6336b9597d6d15ac4f8ad3ccdc7d050.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\04_Dokumente\Schule\HS_Kempten\Semester_7\Bachelor\iBrush\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b00a23cdb25db6f645a9cb49af3f8d38a61dacb7">
+        <dex dex="D:\04_Dokumente\Schule\HS_Kempten\Semester_7\Bachelor\iBrush\app\build\intermediates\pre-dexed\debug\instant-run_70628f438bd95bc656d17c08ed25fe82f5aaa0c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Antoine\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="D:\04_Dokumente\Schule\HS_Kempten\Semester_7\Bachelor\iBrush\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_6806eb33f0011ca34bc28aa906c3ae613a3d5a7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Antoine\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="D:\04_Dokumente\Schule\HS_Kempten\Semester_7\Bachelor\iBrush\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_6806eb33f0011ca34bc28aa906c3ae613a3d5a7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\04_Dokumente\Schule\HS_Kempten\Semester_7\Bachelor\iBrush\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="D:\04_Dokumente\Schule\HS_Kempten\Semester_7\Bachelor\iBrush\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_c3f28d99d6336b9597d6d15ac4f8ad3ccdc7d050.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\04_Dokumente\Schule\HS_Kempten\Semester_7\Bachelor\iBrush\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="D:\04_Dokumente\Schule\HS_Kempten\Semester_7\Bachelor\iBrush\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.0_84e4bfe18a101d576c1298c7f11e77cce3953180.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\04_Dokumente\Schule\HS_Kempten\Semester_7\Bachelor\iBrush\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="D:\04_Dokumente\Schule\HS_Kempten\Semester_7\Bachelor\iBrush\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.0_84e4bfe18a101d576c1298c7f11e77cce3953180.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\04_Dokumente\Schule\HS_Kempten\Semester_7\Bachelor\iBrush\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="D:\04_Dokumente\Schule\HS_Kempten\Semester_7\Bachelor\iBrush\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_c570eb8d75c6e1d23a944083aa39d90eeb10d90a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\04_Dokumente\Schule\HS_Kempten\Semester_7\Bachelor\iBrush\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="D:\04_Dokumente\Schule\HS_Kempten\Semester_7\Bachelor\iBrush\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_c570eb8d75c6e1d23a944083aa39d90eeb10d90a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\04_Dokumente\Schule\HS_Kempten\Semester_7\Bachelor\iBrush\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="D:\04_Dokumente\Schule\HS_Kempten\Semester_7\Bachelor\iBrush\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_4bb219ae35f2ed2e6870e5290b9fb3d40075246c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\04_Dokumente\Schule\HS_Kempten\Semester_7\Bachelor\iBrush\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="D:\04_Dokumente\Schule\HS_Kempten\Semester_7\Bachelor\iBrush\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.0_00c670566b47f11fe1a4ec3548228555dddb87da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\04_Dokumente\Schule\HS_Kempten\Semester_7\Bachelor\iBrush\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="D:\04_Dokumente\Schule\HS_Kempten\Semester_7\Bachelor\iBrush\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_bf85f3085763cdbc1e0cccd5b78b2292a5584ab9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\04_Dokumente\Schule\HS_Kempten\Semester_7\Bachelor\iBrush\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="D:\04_Dokumente\Schule\HS_Kempten\Semester_7\Bachelor\iBrush\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.0_00c670566b47f11fe1a4ec3548228555dddb87da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\04_Dokumente\Schule\HS_Kempten\Semester_7\Bachelor\iBrush\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="D:\04_Dokumente\Schule\HS_Kempten\Semester_7\Bachelor\iBrush\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_4bb219ae35f2ed2e6870e5290b9fb3d40075246c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\04_Dokumente\Schule\HS_Kempten\Semester_7\Bachelor\iBrush\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="D:\04_Dokumente\Schule\HS_Kempten\Semester_7\Bachelor\iBrush\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_bf85f3085763cdbc1e0cccd5b78b2292a5584ab9.jar" />
+    </item>
+
+</items>

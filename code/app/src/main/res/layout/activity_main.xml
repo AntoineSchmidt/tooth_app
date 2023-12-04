@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/rootView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:screenOrientation="portrait">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <ProgressBar
+            android:id="@+id/userLoadingView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center" />
+
+        <LinearLayout
+            android:id="@+id/userListEmptyView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="?android:attr/actionBarSize"
+                android:layout_height="?android:attr/actionBarSize"
+                android:layout_gravity="center"
+                android:scaleType="fitXY"
+                android:src="@drawable/tooth"
+                android:contentDescription="@string/image_tooth" />
+
+            <Space
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/default_view_margin" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="@string/no_toothbrusher_yet"
+                android:textColor="@color/gray" />
+
+        </LinearLayout>
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/userRecyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:clipToPadding="false"
+            android:paddingBottom="@dimen/default_margin"
+            android:paddingTop="@dimen/default_margin" />
+
+    </FrameLayout>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/newUserButton"
+        android:layout_width="?android:attr/actionBarSize"
+        android:layout_height="?android:attr/actionBarSize"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="@dimen/default_view_margin"
+        android:padding="@dimen/default_view_margin"
+        android:scaleType="fitXY"
+        android:src="@drawable/plus"
+        app:elevation="0dp" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/videoButton"
+        android:layout_width="?android:attr/actionBarSize"
+        android:layout_height="?android:attr/actionBarSize"
+        android:layout_gravity="bottom|start"
+        android:layout_margin="@dimen/default_view_margin"
+        android:padding="@dimen/default_view_margin"
+        android:scaleType="fitXY"
+        android:src="@drawable/circle"
+        android:onClick="onVideoClick"
+        app:elevation="0dp" />
+
+</android.support.design.widget.CoordinatorLayout>

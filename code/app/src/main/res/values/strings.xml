@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">iBrush</string>
+    <string name="new_user">Neuer Benutzer</string>
+    <string name="no_toothbrusher_yet">noch keine Zähneputzer</string>
+    <string name="name">Name</string>
+    <string name="brushlength_hint">Zahnbürstenlänge in mm (170)</string>
+    <string name="normal_user">normaler Nutzer</string>
+    <string name="observer_user">Überwachungsrolle</string>
+    <string name="select_role">Rolle wählen:</string>
+    <string name="create_user">Nutzer anlegen</string>
+    <string name="user_added">wurde hinzugefügt!</string>
+    <string name="user_insert_error">konnte nicht hinzugefügt werden</string>
+    <string name="user_edit">Nutzer bearbeiten</string>
+    <string name="user_delete">Nutzer löschen</string>
+    <string name="confirm">Bestätigen</string>
+    <string name="yes">ja</string>
+    <string name="no">nein</string>
+    <string name="confirm_delete_user_message">Möchtest du den Nutzer wirklich löschen?</string>
+    <string name="delete_user_success">Der Nutzer wurde entfernt</string>
+    <string name="delete_user_error">Der Nutzer konnte nicht entfernt werden</string>
+    <string name="title_activity_video">Analyse Videos</string>
+    <string name="image_tooth">Tooth</string>
+    <string name="camera_number">0</string>
+    <string name="camera_number_front">1</string>
+</resources>
